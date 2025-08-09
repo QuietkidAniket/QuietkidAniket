@@ -94,9 +94,9 @@
 <div style="background:rgba(255,0,255,0.075); border-left:4px solid #FF00FF; padding:12px 20px; margin-bottom:20px;">
 <ul>
 <li><b>Zonal Rank 1, Int’l Rank 18</b> – SOF National Cyber Olympiad (2019)</li>
-<li><b>Codeforces Expert</b> <a href="https://codeforces.com/profile/Anicetus_7">(profile)</a>, 2023</li>
-<li><b>LeetCode Knight</b> <a href="https://leetcode.com/Anicetus_7/">(profile)</a>, 2023</li>
-<li><b>CodeChef 3★</b> <a href="https://www.codechef.com/users/ani_23bce1965">(profile)</a>, 2023</li>
+<li><b>Codeforces 1256</b> <a href="https://codeforces.com/profile/Anicetus_7">(profile)</a>, 2023</li>
+<li><b>LeetCode 1708</b> <a href="https://leetcode.com/Anicetus_7/">(profile)</a>, 2023</li>
+<li><b>CodeChef 1550</b> <a href="https://www.codechef.com/users/ani_23bce1965">(profile)</a>, 2023</li>
 <li><b>Stanford ML Specialization</b> <a href="https://www.coursera.org/account/accomplishments/specialization/P6AQ3FKS7TY9">(Certificate)</a>, 2023</li>
 <li><b>LangChain for LLM Dev.</b> <a href="https://github.com/QuietkidAniket/StanfordOnline/blob/main/LangChain/">(Project)</a>, 2024</li>
 <li><b>Harvard CS50W Web Programming</b> <a href="https://courses.edx.org/certificates/1bca14165d054f91b462067024f30454">(Certificate)</a>, 2024</li>
