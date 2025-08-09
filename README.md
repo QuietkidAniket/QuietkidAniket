@@ -187,23 +187,6 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 
 ---
 
-## 💻 Terminal Commands
-
-<pre style="background:radial-gradient(circle,#00FFF7 0%,#FF00FF 100%);color:black;padding:12px;border-radius:8px;border:2px solid #00FFF7;">
-resume       # Displays resume info
-achievements # Lists achievements/awards
-projects     # Shows project portfolio
-experience   # Displays work experience
-socials      # Social media links
-neofetch     # System-like summary
-help         # All commands
-clear        # Clears screen
-about        # About info
-ls           # List sections
-whoami       # Displays current user
-</pre>
-
----
 
 <!-- Neon Radial Quotes -->
 <div align="center">
