@@ -1,14 +1,9 @@
-#include <iostream>
-#include <string>
-using namespace std;
-
-int main() {
-    string markdown = R"(<!-- Neon Banner -->
+<!-- NEON GLOW HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Aniket+Kundu;Competitive+Programmer+|+Full-Stack+Developer;Welcome+to+my+Neon+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programmer+|+Full-Stack+Developer;Code+with+Cyberpunk+Neon" alt="Typing SVG" />
 </p>
 
-<!-- Neon Social Badges -->
+<!-- NEON SOCIAL BADGES -->
 <p align="center">
   <a href="https://github.com/QuietkidAniket"><img src="https://img.shields.io/github/followers/QuietkidAniket?label=Follow&style=for-the-badge&color=00FFF7&logo=github"></a>
   <a href="https://www.linkedin.com/in/anicetus/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black"></a>
@@ -16,108 +11,182 @@ int main() {
   <img src="https://komarev.com/ghpvc/?username=QuietkidAniket&label=Profile+Views&color=FF00FF&style=for-the-badge" alt="views" />
 </p>
 
+<!-- Neon Line SVG -->
+<hr style="border: none; height: 3px; background: linear-gradient(90deg,#00FFF7 0%, #FF00FF 100%); border-radius: 2px;" />
+
+<div align="center">
+
+<img src="images/profile_pic.png" width="128" style="border:3px solid #00FFF7; border-radius:50%; box-shadow:0 0 40px #00FFF7,0 0 10px #FF00FF inset;"/>
+
+</div>
+
+<!-- Neon Glow Box - About -->
+<div style="border-radius:10px; background:rgba(0,255,247,0.075); box-shadow:0 0 15px #00FFF7; padding:17px 30px; margin:22px 0;">
+<h2 style="color:#00FFF7">About Me</h2>
+
+* name: Aniket Kundu
+* role: Competitive Programmer | Full-stack Developer 
+* location: India 
+* email: aniketkundu12072004@gmail.com 
+* phone: +91-9143254261 
+* summary: Performance-focused developer passionate about algorithmic problem-solving & scalable software. Skilled in fullstack development, ML engineering & competitive programming. education:
+* degree: B.Tech in Computer Science Engineering institute: Vellore Institute of Technology, Chennai
+* year: 2023–2027 gpa: 8.7/10 (Highest SGPA: 9.21/10)
+
+</div>
+
 ---
 
-## About Me
-name: Aniket Kundu
-role: Competitive Programmer | Full-stack Developer
-location: India
-email: aniketkundu12072004@gmail.com
-phone: +91-9143254261
-summary: Performance-focused developer with a passion for solving complex algorithmic problems and building scalable applications. Skilled in full-stack and ML engineering, with a foundation in competitive programming and deep learning.
-education:
-  - degree: B.Tech in Computer Science Engineering
-    institute: Vellore Institute of Technology, Chennai
-    year: 2023–2027
-    gpa: 8.7/10 (Highest SGPA: 9.21/10)
+## 🌐 Tech Stack
 
-
-## Tech Stack
-<p align="center">
+<p align="center" style="margin-top:12px;">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=light" />
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&theme=light" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=light" />
 </p>
 
-#### Skills
-- C++, Python, JavaScript, TypeScript, Java, R, Verilog, x86 Shell, ARM, MySQL, C
-- React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, HuggingFace, LangChain, TensorFlow, PyTorch, Selenium, Django REST
-- Data Structures & Algorithms, Computer Architecture, Operating Systems, Probability & Statistics, Discrete Mathematics, Machine Learning, Deep Learning, NLP, Linear Algebra
+### Key Technologies
+</div>
 
 ---
 
-## Achievements
-- **Zonal Rank 1, International Rank 18** – SOF National Cyber Olympiad (2019)
-- **Codeforces Expert** ([profile](https://codeforces.com/profile/Anicetus_7)), 2023
-- **LeetCode Knight** ([profile](https://leetcode.com/Anicetus_7/)), 2023
-- **CodeChef 3★** ([profile](https://www.codechef.com/users/ani_23bce1965)), 2023
-- **Machine Learning Specialization – Stanford** ([Certificate](https://www.coursera.org/account/accomplishments/specialization/P6AQ3FKS7TY9)), 2023
-- **LangChain for LLM Development** ([Course Project](https://github.com/QuietkidAniket/StanfordOnline/blob/main/LangChain/)), 2024
-- **Harvard CS50W – Web Programming** ([Certificate](https://courses.edx.org/certificates/1bca14165d054f91b462067024f30454)), 2024
-- **IIT Madras CS6910 – Deep Learning** ([Course](http://www.cse.iitm.ac.in/~miteshk/CS6910.html)), 2024
-- **Qualcomm On-Device AI** ([Certificate](https://learn.deeplearning.ai/accomplishments/0913f96d-147c-4f9c-a5cd-b3fbf84c909d?usp=sharing)), 2024
+## 🌐 Tech Stack
+
+<p align="center" style="margin-top:12px;">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=light" />
+</p>
+
+### Key Technologies
+*	C++, Python, JavaScript, TypeScript, Java, R, Verilog, x86 Shell, ARM, MySQL, C
+*	React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, HuggingFace, LangChain
+*   TensorFlow, PyTorch, Selenium, Django REST
+*   Data Structures & Algorithms, Machine Learning, Deep Learning, NLP, Linear Algebra
+
 
 ---
 
-## Experience
-- **SpectoV** – Machine Learning Intern *(Sep 2024 – Feb 2025)*  
-  Worked on intelligent meta-humans, RAG with LLMs, resume Q&A, email automation via GCP, and DEFXV model optimization. Mentored through SANKALP. [SpectoV](https://www.spectov.com)
+<!-- Achievements NEON Divider -->
+<hr style="border: none; height: 3px; background: linear-gradient(90deg,#FF00FF 0%, #00FFF7 100%); border-radius: 2px;" />
 
-- **Chakaralaya Analytics** – Machine Learning Intern *(Jun 2024 – Aug 2024)*  
-  PyTorch-based MCDM library with GPU acceleration, pre-processing, and LLM fine-tuning for RAG under Dr. Sudarsanam S.K. [Chakaralaya](https://www.chakaralaya.com)
+## 🏅 Achievements
 
----
-
-## Featured Projects
-- **Free GPT** ([Repo](https://github.com/QuietkidAniket/StanfordOnline/tree/main/LangChain))  
-  Multi-Agentic conversational system with LangChain, fine-tuned Mistral-7B-Instruct; HuggingFace deployment.
-
-- **Portfolio Website** ([Repo](https://github.com/QuietkidAniket/Portfolio))  
-  macOS-style interactive portfolio with command terminal and apps.
-
-- **Competitive Programming Solutions** ([Repo](https://github.com/QuietkidAniket/codeforces))  
-  Optimized solutions for diverse competitive programming problems.
-
----
-
-## Social Profiles
-- [GitHub](https://github.com/QuietkidAniket)
-- [LinkedIn](https://www.linkedin.com/in/anicetus/)
-- [Codeforces](https://codeforces.com/profile/Anicetus_7)
-- [LeetCode](https://leetcode.com/Anicetus_7/)
-- [CodeChef](https://www.codechef.com/users/ani_23bce1965)
-- [AtCoder](https://atcoder.jp/users/Anicetus_7)
+<div style="background:rgba(255,0,255,0.075); border-left:4px solid #FF00FF; padding:12px 20px; margin-bottom:20px;">
+<ul>
+<li><b>Zonal Rank 1, Int’l Rank 18</b> – SOF National Cyber Olympiad (2019)</li>
+<li><b>Codeforces Expert</b> <a href="https://codeforces.com/profile/Anicetus_7">(profile)</a>, 2023</li>
+<li><b>LeetCode Knight</b> <a href="https://leetcode.com/Anicetus_7/">(profile)</a>, 2023</li>
+<li><b>CodeChef 3★</b> <a href="https://www.codechef.com/users/ani_23bce1965">(profile)</a>, 2023</li>
+<li><b>Stanford ML Specialization</b> <a href="https://www.coursera.org/account/accomplishments/specialization/P6AQ3FKS7TY9">(Certificate)</a>, 2023</li>
+<li><b>LangChain for LLM Dev.</b> <a href="https://github.com/QuietkidAniket/StanfordOnline/blob/main/LangChain/">(Project)</a>, 2024</li>
+<li><b>Harvard CS50W Web Programming</b> <a href="https://courses.edx.org/certificates/1bca14165d054f91b462067024f30454">(Certificate)</a>, 2024</li>
+<li><b>IIT Madras CS6910 Deep Learning</b> <a href="http://www.cse.iitm.ac.in/~miteshk/CS6910.html">(Course)</a>, 2024</li>
+<li><b>Qualcomm On-Device AI</b> <a href="https://learn.deeplearning.ai/accomplishments/0913f96d-147c-4f9c-a5cd-b3fbf84c909d?usp=sharing">(Certificate)</a>, 2024</li>
+</ul>
+</div>
 
 ---
 
-## CP Platform Stats
-| Platform    | Rating         | Max Rating | Problems Solved | Contests |
-|-------------|----------------|------------|-----------------|----------|
-| Codeforces  | 1500 (pupil)   | 1600       | 200             | 15       |
-| LeetCode    | 1700           | 1700       | 600             | 12       |
-| CodeChef    | 1600 (3★)      | 1650       | 150             | 10       |
-| AtCoder     | 1200 (green)   | 1250       | 80              | 5        |
+## ☄️ Experience
+
+<div style="border:2px solid #00FFF7; border-radius:8px; background:#101824; box-shadow:0 0 18px #00FFF7 inset;">
+<ul>
+<li>
+<b>SpectoV</b> – <i>Machine Learning Intern (Sep 2024 – Feb 2025)</i>  
+<br />Worked on DESKAVR’s meta-humans (multi-agentic models), resume Q&A (RAG+LLMs), logistics report automation (GCP), and production optimization.<br>
+Mentored in SANKALP. <a href="https://www.spectov.com">SpectoV</a>
+</li>
+<li>
+<b>Chakaralaya Analytics</b> – <i>Machine Learning Intern (Jun 2024 – Aug 2024)</i>
+<br /> Developed PyTorch GPU-accelerated MCDM library, LLM fine-tuning for RAG, pipelines.<br>
+Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chakaralaya</a>
+</li>
+</ul>
+</div>
 
 ---
 
-## Terminal Commands Supported on Portfolio
-- `resume` – Displays resume information
-- `achievements` – Lists achievements and awards
-- `projects` – Shows featured projects
-- `experience` – Displays work experience
-- `socials` – Lists social profiles
-- `neofetch` – Colorful system summary
-- `help` – Lists all commands
-- `clear` – Clears screen
-- `about` – Shows about
-- `ls` – Lists sections
-- `whoami` – Displays current user
+<!-- Project Section Neon Divider -->
+<hr style="border: none; height: 3px; background: linear-gradient(90deg,#00FFF7 20%, #FF00FF 80%); border-radius: 2px;" />
+
+## ✨ Featured Projects
+
+<div style="display:flex; gap:18px; flex-wrap:wrap;">
+<div style="border:2px solid #FF00FF; background:rgba(255,0,255,0.07); border-radius:9px; padding:12px; margin:10px;">
+<b>Free GPT:</b> <a href="https://github.com/QuietkidAniket/StanfordOnline/tree/main/LangChain">Repo</a><br>
+<small>Multi-Agentic chat system (LangChain), Mistral-7B-Instruct finetune, HuggingFace API deploy.</small>
+</div>
+<div style="border:2px solid #00FFF7; background:rgba(0,255,247,0.07); border-radius:9px; padding:12px; margin:10px;">
+<b>Portfolio Website:</b> <a href="https://github.com/QuietkidAniket/Portfolio">Repo</a><br>
+<small>macOS-style interactive site—command terminal, windowed apps—for all devices.</small>
+</div>
+<div style="border:2px solid #FF00FF; background:rgba(255,0,255,0.07); border-radius:9px; padding:12px; margin:10px;">
+<b>Competitive Programming Solutions:</b> <a href="https://github.com/QuietkidAniket/codeforces">Repo</a><br>
+<small>Curated, optimized solutions for major CP platforms.</small>
+</div>
+</div>
 
 ---
+
+## 💾 Social Profiles
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://github.com/QuietkidAniket" style="color:#00FFF7; text-shadow:0 0 5px #00FFF7;">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/anicetus/" style="color:#FF00FF; text-shadow:0 0 5px #FF00FF;">LinkedIn</a> • 
+  <a href="https://codeforces.com/profile/Anicetus_7" style="color:#00FFF7;">Codeforces</a> •
+  <a href="https://leetcode.com/Anicetus_7/" style="color:#FF00FF;">LeetCode</a> •
+  <a href="https://www.codechef.com/users/ani_23bce1965" style="color:#00FFF7;">CodeChef</a> • 
+  <a href="https://atcoder.jp/users/Anicetus_7" style="color:#FF00FF;">AtCoder</a>
 </p>
-)";
-  
-}
+
+---
+
+## 🔆 CP Platform Stats
+
+<table>
+<tr>
+<th style="color:#00FFF7;">Platform</th>
+<th style="color:#FF00FF;">Rating</th>
+<th style="color:#FF00FF;">Max Rating</th>
+<th style="color:#00FFF7;">Problems Solved</th>
+<th style="color:#FF00FF;">Contests</th>
+</tr>
+<tr>
+<td>Codeforces</td><td>1500 (pupil)</td><td>1600</td><td>200</td><td>15</td>
+</tr>
+<tr>
+<td>LeetCode</td><td>1700</td><td>1700</td><td>600</td><td>12</td>
+</tr>
+<tr>
+<td>CodeChef</td><td>1600 (3★)</td><td>1650</td><td>150</td><td>10</td>
+</tr>
+<tr>
+<td>AtCoder</td><td>1200 (green)</td><td>1250</td><td>80</td><td>5</td>
+</tr>
+</table>
+
+---
+
+## 💻 Terminal Commands
+
+<pre style="background:radial-gradient(circle,#00FFF7 0%,#FF00FF 100%);color:black;padding:12px;border-radius:8px;border:2px solid #00FFF7;">
+resume       # Displays resume info
+achievements # Lists achievements/awards
+projects     # Shows project portfolio
+experience   # Displays work experience
+socials      # Social media links
+neofetch     # System-like summary
+help         # All commands
+clear        # Clears screen
+about        # About info
+ls           # List sections
+whoami       # Displays current user
+</pre>
+
+---
+
+<!-- Neon Radial Quotes -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
