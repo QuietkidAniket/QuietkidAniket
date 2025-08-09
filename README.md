@@ -48,7 +48,7 @@
 * location: India 
 * email: aniketkundu12072004@gmail.com 
 * phone: +91-9143254261 
-* summary: Performance-focused developer passionate about algorithmic problem-solving & scalable software. Skilled in fullstack development, ML engineering & competitive programming. education:
+* summary: Performance-focused developer passionate about algorithmic problem-solving & scalable software. Skilled in ML engineering & competitive programming. education:
 * degree: B.Tech in Computer Science Engineering institute: Vellore Institute of Technology, Chennai
 * year: 2023–2027 gpa: 8.7/10 (Highest SGPA: 9.21/10)
 
