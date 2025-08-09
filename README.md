@@ -20,6 +20,25 @@
 
 </div>
 
+
+<!-- GitHub Neon Stats (Glowing Cards) -->
+<p align="center" style="background: radial-gradient(circle, rgba(0,255,247,0.15) 0%, rgba(255,0,255,0.15) 100%);
+                      border-radius: 20px; padding: 15px; box-shadow: 0 0 30px #00FFF7, 0 0 40px #FF00FF inset;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=QuietkidAniket&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160" style="margin: 8px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=QuietkidAniket&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160" style="margin: 8px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuietkidAniket&layout=compact&theme=radical" alt="Top Languages" height="160" style="margin: 8px;" />
+
+</p>
+
+<!-- GitHub Trophies with Cyberpunk Glow -->
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=QuietkidAniket&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+
 <!-- Neon Glow Box - About -->
 <div style="border-radius:10px; background:rgba(0,255,247,0.075); box-shadow:0 0 15px #00FFF7; padding:17px 30px; margin:22px 0;">
 <h2 style="color:#00FFF7">About Me</h2>
