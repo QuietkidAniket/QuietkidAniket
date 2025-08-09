@@ -44,7 +44,7 @@
 <h2 style="color:#00FFF7">About Me</h2>
 
 * name: Aniket Kundu
-* role: Competitive Programmer | Full-stack Developer 
+* role: Competitive Programmer | AI/ML Engineering
 * location: India 
 * email: aniketkundu12072004@gmail.com 
 * phone: +91-9143254261 
