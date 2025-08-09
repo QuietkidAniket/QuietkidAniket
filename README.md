@@ -1,6 +1,6 @@
 <!-- NEON GLOW HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programmer+|+Full-Stack+Developer;Code+with+Cyberpunk+Neon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programmer+|+AI/ML;" alt="Typing SVG" />
 </p>
 
 <!-- NEON SOCIAL BADGES -->
