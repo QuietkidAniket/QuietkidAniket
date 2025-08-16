@@ -1,6 +1,6 @@
 <!-- NEON GLOW HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programmer+|+AI/ML;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=2000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programmer+|+AI/ML;" alt="Typing SVG" />
 </p>
 
 <!-- NEON SOCIAL BADGES -->
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌐 Tech Stack
+##  Tech Stack
 
 <p align="center" style="margin-top:12px;">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=light" />
@@ -69,7 +69,7 @@
 
 ---
 
-## 🌐 Tech Stack
+##  Tech Stack
 
 <p align="center" style="margin-top:12px;">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=light" />
@@ -89,7 +89,7 @@
 <!-- Achievements NEON Divider -->
 <hr style="border: none; height: 3px; background: linear-gradient(90deg,#FF00FF 0%, #00FFF7 100%); border-radius: 2px;" />
 
-## 🏅 Achievements
+##  Achievements
 
 <div style="background:rgba(255,0,255,0.075); border-left:4px solid #FF00FF; padding:12px 20px; margin-bottom:20px;">
 <ul>
@@ -107,7 +107,7 @@
 
 ---
 
-## ☄️ Experience
+##  Experience
 
 <div style="border:2px solid #00FFF7; border-radius:8px; background:#101824; box-shadow:0 0 18px #00FFF7 inset;">
 <ul>
@@ -148,7 +148,7 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 
 ---
 
-## 💾 Social Profiles
+## Social Profiles
 
 <p align="center">
   <a href="https://github.com/QuietkidAniket" style="color:#00FFF7; text-shadow:0 0 5px #00FFF7;">GitHub</a> • 
@@ -161,7 +161,7 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 
 ---
 
-## 🔆 CP Platform Stats
+##  CP Platform Stats
 
 <table>
 <tr>
@@ -172,16 +172,16 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 <th style="color:#FF00FF;">Contests</th>
 </tr>
 <tr>
-<td>Codeforces</td><td>1500 (pupil)</td><td>1600</td><td>200</td><td>15</td>
+<td>Codeforces</td><td>1250 (pupil)</td><td>1600</td><td>100+</td><td>10</td>
 </tr>
 <tr>
-<td>LeetCode</td><td>1700</td><td>1700</td><td>600</td><td>12</td>
+<td>LeetCode</td><td>1850</td><td>1850</td><td>500+</td><td>19</td>
 </tr>
 <tr>
-<td>CodeChef</td><td>1600 (3★)</td><td>1650</td><td>150</td><td>10</td>
+<td>CodeChef</td><td>1600 (3★)</td><td>1600</td><td>50+</td><td>10</td>
 </tr>
 <tr>
-<td>AtCoder</td><td>1200 (green)</td><td>1250</td><td>80</td><td>5</td>
+<td>AtCoder</td><td>180 (green)</td><td>180</td><td>50+</td><td>5</td>
 </tr>
 </table>
 
