@@ -129,7 +129,7 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 <!-- Project Section Neon Divider -->
 <hr style="border: none; height: 3px; background: linear-gradient(90deg,#00FFF7 20%, #FF00FF 80%); border-radius: 2px;" />
 
-## ✨ Featured Projects
+## Featured Projects
 
 <div style="display:flex; gap:18px; flex-wrap:wrap;">
 <div style="border:2px solid #FF00FF; background:rgba(255,0,255,0.07); border-radius:9px; padding:12px; margin:10px;">
