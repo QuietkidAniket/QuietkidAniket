@@ -172,10 +172,10 @@ Under guidance of Dr. Sudarsanam S.K. <a href="https://www.chakaralaya.com">Chak
 <th style="color:#FF00FF;">Contests</th>
 </tr>
 <tr>
-<td>Codeforces</td><td>1450+ (specialist)</td><td>1600</td><td>400+</td><td>10</td>
+<td>Codeforces</td><td>1550+ (specialist)</td><td>1550</td><td>350+</td><td>10</td>
 </tr>
 <tr>
-<td>LeetCode</td><td>2050</td><td>2050</td><td>700+</td><td>35+</td>
+<td>LeetCode</td><td>2050</td><td>2050 (top 1.92%)</td><td>670+</td><td>35+</td>
 </tr>
 <tr>
 <td>CodeChef</td><td>1600+ (3★)</td><td>1600+</td><td>70+</td><td>10</td>
