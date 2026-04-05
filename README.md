@@ -20,7 +20,6 @@
 
 ### FEATURED PROJECTS
 
-* **[Free GPT](https://github.com/QuietkidAniket/StanfordOnline/tree/main/LangChain):** Multi-Agentic chat system built with LangChain, Mistral-7B-Instruct fine-tuning, and HuggingFace API integration.
 * **[Portfolio Website](https://github.com/QuietkidAniket/Portfolio):** A macOS-styled interactive web portfolio featuring a command terminal and windowed applications, fully responsive across devices.
 * **[Competitive Programming Solutions](https://github.com/QuietkidAniket/codeforces):** A massive repository of curated, heavily optimized C++ solutions for major CP platforms.
 * **[Distributed Systems in C++](https://github.com/QuietkidAniket/Distributed_Systems_in_cpp):** Core implementations of distributed computing concepts, synchronization primitives, and lock managers.
