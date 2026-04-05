@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/13029151642767900367_0" alt="Cyberpunk Banner" width="100%" style="border-radius: 15px;" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=2000&color=00FFF7&center=true&vCenter=true&width=800&lines=Aniket+Kundu;Competitive+Programming;AI%2FML+Engineering;Distributed+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="images/profile_pic.png" width="140" style="border-radius:50%; border: 3px solid #00FFF7;" alt="Profile Picture"/>
-</p>
+<a href="https://github.com/QuietkidAniket">
+  <img src="https://github.com/QuietkidAniket/Portfolio/blob/main/public/images/2026-02-04%2013.24.24.jpg?raw=true" width="100" height="200" alt="Portfolio Image">
+</a>
 
 <p align="center">
   <a href="https://github.com/QuietkidAniket"><img src="https://img.shields.io/github/followers/QuietkidAniket?label=Follow&style=for-the-badge&color=0D1117&labelColor=00FFF7"></a>
@@ -59,7 +58,15 @@ Currently diving deep into **Distributed Systems** and **High-Performance Comput
 ---
 
 ### ACHIEVEMENTS
+<p align="center">
+<img 
+  src="https://github.com/QuietkidAniket/Portfolio/blob/main/public/images/photo_2026-04-05%2013.14.11.jpeg?raw=true" 
+  alt="Background Image"
+  style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; z-index: -1; opacity: 0.15; pointer-events: none;"
+>
+</a>
 
+> * **International collegiate Programming Contest (ICPC)** Asia-West Regionalist 2026 
 > * **Codeforces:** Highest Rating 1550 (Specialist)
 > * **LeetCode:** Highest Rating 2050+ (Top 1.92%), Highest Rank 444
 > * **Zonal Rank 1, Int'l Rank 18:** SOF National Cyber Olympiad (2019)
@@ -97,17 +104,17 @@ Currently diving deep into **Distributed Systems** and **High-Performance Comput
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuietkidAniket&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=QuietkidAniket&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=QuietkidAniket&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuietkidAniket&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=QuietkidAniket&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
