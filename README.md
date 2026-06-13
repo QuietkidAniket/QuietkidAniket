@@ -75,11 +75,11 @@ Currently diving deep into **Distributed Systems** and **High-Performance Comput
 
 ### EXPERIENCE
 
-**Machine Learning Intern | SpectoV**
+**Software Engineering Intern (Backend) | SpectoV**
 *Sep 2024 – Feb 2025*
 * Engineered DESKAVR's meta-humans (multi-agentic models), implemented resume Q&A utilizing RAG and LLMs, automated logistics reports on GCP, and streamlined production pipelines.
 
-**Machine Learning Intern | Chakaralaya Analytics**
+**Software Engineering Intern | Chakaralaya Analytics**
 *Jun 2024 – Aug 2024*
 * Developed a PyTorch GPU-accelerated MCDM library, executed LLM fine-tuning for RAG integrations, and built automated data pipelines.
 
