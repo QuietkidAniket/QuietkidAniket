@@ -61,7 +61,7 @@ Currently diving deep into **Distributed Systems** and **High-Performance Comput
 <img 
   src="https://github.com/QuietkidAniket/Portfolio/blob/main/public/images/photo_2026-04-05%2013.14.11.jpeg?raw=true" 
   alt="Background Image"
-  style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; z-index: -1; opacity: 0.15; pointer-events: none;"
+  style="position: fixed; top: 0; left: 0; width: 100vw; height: 80vh; object-fit: cover; z-index: -1; opacity: 0.15; pointer-events: none;"
 >
 </a>
 
